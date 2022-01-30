@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:bakeneko-65-pcb-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -186,7 +185,7 @@ D-
 Text GLabel 5750 1600 0    50   Input ~ 0
 D+
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U2
+L bakeneko-65-pcb-rescue:ATmega32U4-AU-MCU_Microchip_ATmega U2
 U 1 1 5F26004F
 P 2300 5050
 F 0 "U2" H 1450 4200 50  0000 C CNN
@@ -422,7 +421,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 5150 5650 5150
 $Comp
-L Connector:AVR-ISP-6 J2
+L bakeneko-65-pcb-rescue:AVR-ISP-6-Connector J2
 U 1 1 5F4C9CCE
 P 2050 1700
 F 0 "J2" H 1721 1796 50  0000 R CNN

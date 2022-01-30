@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:bakeneko-65-pcb-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -21,7 +20,7 @@ U 1 1 5F497077
 P 2000 2250
 F 0 "MX18" H 2000 2485 50  0000 C CNN
 F 1 "1.5u" H 2000 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U-NoLED" H 2000 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u" H 2000 2250 50  0001 C CNN
 F 3 "~" H 2000 2250 50  0001 C CNN
 	1    2000 2250
 	-1   0    0    -1  
@@ -32,7 +31,7 @@ U 1 1 5F49707D
 P 4200 1550
 F 0 "MX5" H 4200 1785 50  0000 C CNN
 F 1 "1u" H 4200 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4200 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4200 1550 50  0001 C CNN
 F 3 "~" H 4200 1550 50  0001 C CNN
 	1    4200 1550
 	-1   0    0    -1  
@@ -115,7 +114,7 @@ U 1 1 5F4970AB
 P 1450 2950
 F 0 "MX33" H 1450 3185 50  0000 C CNN
 F 1 "1.25u" H 1450 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U-NoLED" H 1450 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u" H 1450 2950 50  0001 C CNN
 F 3 "~" H 1450 2950 50  0001 C CNN
 	1    1450 2950
 	-1   0    0    -1  
@@ -126,7 +125,7 @@ U 1 1 5F4970B1
 P 10800 1550
 F 0 "MX17" H 10800 1785 50  0000 C CNN
 F 1 "2u" H 10800 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-2U-NoLED" H 10800 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u" H 10800 1550 50  0001 C CNN
 F 3 "~" H 10800 1550 50  0001 C CNN
 	1    10800 1550
 	-1   0    0    -1  
@@ -142,7 +141,7 @@ U 1 1 5F4970C6
 P 2000 2950
 F 0 "MX34" H 2000 3185 50  0000 C CNN
 F 1 "1.75u" H 2000 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.75U-NoLED" H 2000 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u" H 2000 2950 50  0001 C CNN
 F 3 "~" H 2000 2950 50  0001 C CNN
 	1    2000 2950
 	-1   0    0    -1  
@@ -158,7 +157,7 @@ U 1 1 5F4970CF
 P 2000 3650
 F 0 "MX48" H 2000 3885 50  0000 C CNN
 F 1 "2.25u" H 2000 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-2.25U-NoLED" H 2000 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u" H 2000 3650 50  0001 C CNN
 F 3 "~" H 2000 3650 50  0001 C CNN
 	1    2000 3650
 	-1   0    0    -1  
@@ -181,7 +180,7 @@ U 1 1 5F4970DC
 P 10250 4350
 F 0 "MX70" H 10250 4585 50  0000 C CNN
 F 1 "1u" H 10250 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 10250 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 10250 4350 50  0001 C CNN
 F 3 "~" H 10250 4350 50  0001 C CNN
 	1    10250 4350
 	-1   0    0    -1  
@@ -207,7 +206,7 @@ U 1 1 5F4970EB
 P 9150 4350
 F 0 "MX69" H 9150 4585 50  0000 C CNN
 F 1 "1u" H 9150 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 9150 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 9150 4350 50  0001 C CNN
 F 3 "~" H 9150 4350 50  0001 C CNN
 	1    9150 4350
 	-1   0    0    -1  
@@ -233,7 +232,7 @@ U 1 1 5F4970FA
 P 8600 4350
 F 0 "MX68" H 8600 4585 50  0000 C CNN
 F 1 "1u" H 8600 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8600 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 8600 4350 50  0001 C CNN
 F 3 "~" H 8600 4350 50  0001 C CNN
 	1    8600 4350
 	-1   0    0    -1  
@@ -350,7 +349,7 @@ U 1 1 5F497179
 P 10250 3650
 F 0 "MX61" H 10250 3885 50  0000 C CNN
 F 1 "1u" H 10250 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 10250 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 10250 3650 50  0001 C CNN
 F 3 "~" H 10250 3650 50  0001 C CNN
 	1    10250 3650
 	-1   0    0    -1  
@@ -379,7 +378,7 @@ U 1 1 5F49718A
 P 9150 3650
 F 0 "MX60" H 9150 3885 50  0000 C CNN
 F 1 "1u" H 9150 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 9150 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 9150 3650 50  0001 C CNN
 F 3 "~" H 9150 3650 50  0001 C CNN
 	1    9150 3650
 	-1   0    0    -1  
@@ -408,7 +407,7 @@ U 1 1 5F49719B
 P 8600 3650
 F 0 "MX59" H 8600 3885 50  0000 C CNN
 F 1 "1.75u" H 8600 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.75U-NoLED" H 8600 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u" H 8600 3650 50  0001 C CNN
 F 3 "~" H 8600 3650 50  0001 C CNN
 	1    8600 3650
 	-1   0    0    -1  
@@ -437,7 +436,7 @@ U 1 1 5F4971AC
 P 8050 3650
 F 0 "MX58" H 8050 3885 50  0000 C CNN
 F 1 "1u" H 8050 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8050 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 8050 3650 50  0001 C CNN
 F 3 "~" H 8050 3650 50  0001 C CNN
 	1    8050 3650
 	-1   0    0    -1  
@@ -463,7 +462,7 @@ U 1 1 5F4971BD
 P 7500 3650
 F 0 "MX57" H 7500 3885 50  0000 C CNN
 F 1 "1u" H 7500 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7500 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 7500 3650 50  0001 C CNN
 F 3 "~" H 7500 3650 50  0001 C CNN
 	1    7500 3650
 	-1   0    0    -1  
@@ -492,7 +491,7 @@ U 1 1 5F4971CE
 P 6950 3650
 F 0 "MX56" H 6950 3885 50  0000 C CNN
 F 1 "1u" H 6950 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6950 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6950 3650 50  0001 C CNN
 F 3 "~" H 6950 3650 50  0001 C CNN
 	1    6950 3650
 	-1   0    0    -1  
@@ -518,7 +517,7 @@ U 1 1 5F4971DD
 P 6400 3650
 F 0 "MX55" H 6400 3885 50  0000 C CNN
 F 1 "1u" H 6400 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6400 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6400 3650 50  0001 C CNN
 F 3 "~" H 6400 3650 50  0001 C CNN
 	1    6400 3650
 	-1   0    0    -1  
@@ -544,7 +543,7 @@ U 1 1 5F4971EC
 P 5850 3650
 F 0 "MX54" H 5850 3885 50  0000 C CNN
 F 1 "1u" H 5850 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5850 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5850 3650 50  0001 C CNN
 F 3 "~" H 5850 3650 50  0001 C CNN
 	1    5850 3650
 	-1   0    0    -1  
@@ -573,7 +572,7 @@ U 1 1 5F4971FD
 P 5300 3650
 F 0 "MX53" H 5300 3885 50  0000 C CNN
 F 1 "1u" H 5300 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5300 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5300 3650 50  0001 C CNN
 F 3 "~" H 5300 3650 50  0001 C CNN
 	1    5300 3650
 	-1   0    0    -1  
@@ -599,7 +598,7 @@ U 1 1 5F49720C
 P 4750 3650
 F 0 "MX52" H 4750 3885 50  0000 C CNN
 F 1 "1u" H 4750 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4750 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4750 3650 50  0001 C CNN
 F 3 "~" H 4750 3650 50  0001 C CNN
 	1    4750 3650
 	-1   0    0    -1  
@@ -625,7 +624,7 @@ U 1 1 5F49721B
 P 4200 3650
 F 0 "MX51" H 4200 3885 50  0000 C CNN
 F 1 "1u" H 4200 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4200 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4200 3650 50  0001 C CNN
 F 3 "~" H 4200 3650 50  0001 C CNN
 	1    4200 3650
 	-1   0    0    -1  
@@ -651,7 +650,7 @@ U 1 1 5F49722A
 P 3650 3650
 F 0 "MX50" H 3650 3885 50  0000 C CNN
 F 1 "1u" H 3650 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3650 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3650 3650 50  0001 C CNN
 F 3 "~" H 3650 3650 50  0001 C CNN
 	1    3650 3650
 	-1   0    0    -1  
@@ -680,7 +679,7 @@ U 1 1 5F49723B
 P 3100 3650
 F 0 "MX49" H 3100 3885 50  0000 C CNN
 F 1 "1u" H 3100 3794 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3100 3650 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3100 3650 50  0001 C CNN
 F 3 "~" H 3100 3650 50  0001 C CNN
 	1    3100 3650
 	-1   0    0    -1  
@@ -723,7 +722,7 @@ U 1 1 5F497254
 P 10250 2950
 F 0 "MX47" H 10250 3185 50  0000 C CNN
 F 1 "1u" H 10250 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 10250 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 10250 2950 50  0001 C CNN
 F 3 "~" H 10250 2950 50  0001 C CNN
 	1    10250 2950
 	-1   0    0    -1  
@@ -752,7 +751,7 @@ U 1 1 5F497265
 P 9150 2950
 F 0 "MX46" H 9150 3185 50  0000 C CNN
 F 1 "2.25u" H 9150 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-2.25U-NoLED" H 9150 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.25u" H 9150 2950 50  0001 C CNN
 F 3 "~" H 9150 2950 50  0001 C CNN
 	1    9150 2950
 	-1   0    0    -1  
@@ -781,7 +780,7 @@ U 1 1 5F497276
 P 8050 2950
 F 0 "MX45" H 8050 3185 50  0000 C CNN
 F 1 "1u" H 8050 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8050 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 8050 2950 50  0001 C CNN
 F 3 "~" H 8050 2950 50  0001 C CNN
 	1    8050 2950
 	-1   0    0    -1  
@@ -810,7 +809,7 @@ U 1 1 5F497287
 P 7500 2950
 F 0 "MX44" H 7500 3185 50  0000 C CNN
 F 1 "1u" H 7500 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7500 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 7500 2950 50  0001 C CNN
 F 3 "~" H 7500 2950 50  0001 C CNN
 	1    7500 2950
 	-1   0    0    -1  
@@ -839,7 +838,7 @@ U 1 1 5F497298
 P 6950 2950
 F 0 "MX43" H 6950 3185 50  0000 C CNN
 F 1 "1u" H 6950 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6950 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6950 2950 50  0001 C CNN
 F 3 "~" H 6950 2950 50  0001 C CNN
 	1    6950 2950
 	-1   0    0    -1  
@@ -868,7 +867,7 @@ U 1 1 5F4972A9
 P 6400 2950
 F 0 "MX42" H 6400 3185 50  0000 C CNN
 F 1 "1u" H 6400 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6400 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6400 2950 50  0001 C CNN
 F 3 "~" H 6400 2950 50  0001 C CNN
 	1    6400 2950
 	-1   0    0    -1  
@@ -897,7 +896,7 @@ U 1 1 5F4972BA
 P 5850 2950
 F 0 "MX41" H 5850 3185 50  0000 C CNN
 F 1 "1u" H 5850 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5850 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5850 2950 50  0001 C CNN
 F 3 "~" H 5850 2950 50  0001 C CNN
 	1    5850 2950
 	-1   0    0    -1  
@@ -926,7 +925,7 @@ U 1 1 5F4972CB
 P 5300 2950
 F 0 "MX40" H 5300 3185 50  0000 C CNN
 F 1 "1u" H 5300 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5300 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5300 2950 50  0001 C CNN
 F 3 "~" H 5300 2950 50  0001 C CNN
 	1    5300 2950
 	-1   0    0    -1  
@@ -955,7 +954,7 @@ U 1 1 5F4972DC
 P 4750 2950
 F 0 "MX39" H 4750 3185 50  0000 C CNN
 F 1 "1u" H 4750 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4750 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4750 2950 50  0001 C CNN
 F 3 "~" H 4750 2950 50  0001 C CNN
 	1    4750 2950
 	-1   0    0    -1  
@@ -984,7 +983,7 @@ U 1 1 5F4972ED
 P 4200 2950
 F 0 "MX38" H 4200 3185 50  0000 C CNN
 F 1 "1u" H 4200 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4200 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4200 2950 50  0001 C CNN
 F 3 "~" H 4200 2950 50  0001 C CNN
 	1    4200 2950
 	-1   0    0    -1  
@@ -1013,7 +1012,7 @@ U 1 1 5F4972FE
 P 3650 2950
 F 0 "MX37" H 3650 3185 50  0000 C CNN
 F 1 "1u" H 3650 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3650 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3650 2950 50  0001 C CNN
 F 3 "~" H 3650 2950 50  0001 C CNN
 	1    3650 2950
 	-1   0    0    -1  
@@ -1042,7 +1041,7 @@ U 1 1 5F49730F
 P 3100 2950
 F 0 "MX36" H 3100 3185 50  0000 C CNN
 F 1 "1u" H 3100 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3100 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3100 2950 50  0001 C CNN
 F 3 "~" H 3100 2950 50  0001 C CNN
 	1    3100 2950
 	-1   0    0    -1  
@@ -1071,7 +1070,7 @@ U 1 1 5F497320
 P 2550 2950
 F 0 "MX35" H 2550 3185 50  0000 C CNN
 F 1 "1u" H 2550 3094 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 2550 2950 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 2550 2950 50  0001 C CNN
 F 3 "~" H 2550 2950 50  0001 C CNN
 	1    2550 2950
 	-1   0    0    -1  
@@ -1115,7 +1114,7 @@ U 1 1 5F49733A
 P 10250 2250
 F 0 "MX32" H 10250 2485 50  0000 C CNN
 F 1 "1u" H 10250 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 10250 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 10250 2250 50  0001 C CNN
 F 3 "~" H 10250 2250 50  0001 C CNN
 	1    10250 2250
 	-1   0    0    -1  
@@ -1144,7 +1143,7 @@ U 1 1 5F49734B
 P 9150 2250
 F 0 "MX31" H 9150 2485 50  0000 C CNN
 F 1 "1.5u" H 9150 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U-NoLED" H 9150 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u" H 9150 2250 50  0001 C CNN
 F 3 "~" H 9150 2250 50  0001 C CNN
 	1    9150 2250
 	-1   0    0    -1  
@@ -1173,7 +1172,7 @@ U 1 1 5F49735C
 P 8600 2250
 F 0 "MX30" H 8600 2485 50  0000 C CNN
 F 1 "1u" H 8600 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8600 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 8600 2250 50  0001 C CNN
 F 3 "~" H 8600 2250 50  0001 C CNN
 	1    8600 2250
 	-1   0    0    -1  
@@ -1202,7 +1201,7 @@ U 1 1 5F49736D
 P 8050 2250
 F 0 "MX29" H 8050 2485 50  0000 C CNN
 F 1 "1u" H 8050 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8050 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 8050 2250 50  0001 C CNN
 F 3 "~" H 8050 2250 50  0001 C CNN
 	1    8050 2250
 	-1   0    0    -1  
@@ -1231,7 +1230,7 @@ U 1 1 5F49737E
 P 7500 2250
 F 0 "MX28" H 7500 2485 50  0000 C CNN
 F 1 "1u" H 7500 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7500 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 7500 2250 50  0001 C CNN
 F 3 "~" H 7500 2250 50  0001 C CNN
 	1    7500 2250
 	-1   0    0    -1  
@@ -1260,7 +1259,7 @@ U 1 1 5F49738F
 P 6950 2250
 F 0 "MX27" H 6950 2485 50  0000 C CNN
 F 1 "1u" H 6950 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6950 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6950 2250 50  0001 C CNN
 F 3 "~" H 6950 2250 50  0001 C CNN
 	1    6950 2250
 	-1   0    0    -1  
@@ -1289,7 +1288,7 @@ U 1 1 5F4973A0
 P 6400 2250
 F 0 "MX26" H 6400 2485 50  0000 C CNN
 F 1 "1u" H 6400 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6400 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6400 2250 50  0001 C CNN
 F 3 "~" H 6400 2250 50  0001 C CNN
 	1    6400 2250
 	-1   0    0    -1  
@@ -1318,7 +1317,7 @@ U 1 1 5F4973B1
 P 5850 2250
 F 0 "MX25" H 5850 2485 50  0000 C CNN
 F 1 "1u" H 5850 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5850 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5850 2250 50  0001 C CNN
 F 3 "~" H 5850 2250 50  0001 C CNN
 	1    5850 2250
 	-1   0    0    -1  
@@ -1347,7 +1346,7 @@ U 1 1 5F4973C2
 P 5300 2250
 F 0 "MX24" H 5300 2485 50  0000 C CNN
 F 1 "1u" H 5300 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5300 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5300 2250 50  0001 C CNN
 F 3 "~" H 5300 2250 50  0001 C CNN
 	1    5300 2250
 	-1   0    0    -1  
@@ -1376,7 +1375,7 @@ U 1 1 5F4973D3
 P 4750 2250
 F 0 "MX23" H 4750 2485 50  0000 C CNN
 F 1 "1u" H 4750 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4750 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4750 2250 50  0001 C CNN
 F 3 "~" H 4750 2250 50  0001 C CNN
 	1    4750 2250
 	-1   0    0    -1  
@@ -1407,7 +1406,7 @@ U 1 1 5F4973E5
 P 4200 2250
 F 0 "MX22" H 4200 2485 50  0000 C CNN
 F 1 "1u" H 4200 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4200 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4200 2250 50  0001 C CNN
 F 3 "~" H 4200 2250 50  0001 C CNN
 	1    4200 2250
 	-1   0    0    -1  
@@ -1436,7 +1435,7 @@ U 1 1 5F4973F6
 P 3650 2250
 F 0 "MX21" H 3650 2485 50  0000 C CNN
 F 1 "1u" H 3650 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3650 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3650 2250 50  0001 C CNN
 F 3 "~" H 3650 2250 50  0001 C CNN
 	1    3650 2250
 	-1   0    0    -1  
@@ -1465,7 +1464,7 @@ U 1 1 5F497407
 P 3100 2250
 F 0 "MX20" H 3100 2485 50  0000 C CNN
 F 1 "1u" H 3100 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3100 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3100 2250 50  0001 C CNN
 F 3 "~" H 3100 2250 50  0001 C CNN
 	1    3100 2250
 	-1   0    0    -1  
@@ -1494,7 +1493,7 @@ U 1 1 5F497418
 P 2550 2250
 F 0 "MX19" H 2550 2485 50  0000 C CNN
 F 1 "1u" H 2550 2394 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 2550 2250 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 2550 2250 50  0001 C CNN
 F 3 "~" H 2550 2250 50  0001 C CNN
 	1    2550 2250
 	-1   0    0    -1  
@@ -1539,7 +1538,7 @@ U 1 1 5F497432
 P 10250 1550
 F 0 "MX16" H 10250 1785 50  0000 C CNN
 F 1 "1u" H 10250 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 10250 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 10250 1550 50  0001 C CNN
 F 3 "~" H 10250 1550 50  0001 C CNN
 	1    10250 1550
 	-1   0    0    -1  
@@ -1571,7 +1570,7 @@ U 1 1 5F497445
 P 9700 1550
 F 0 "MX15" H 9700 1785 50  0000 C CNN
 F 1 "1u" H 9700 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 9700 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 9700 1550 50  0001 C CNN
 F 3 "~" H 9700 1550 50  0001 C CNN
 	1    9700 1550
 	-1   0    0    -1  
@@ -1602,7 +1601,7 @@ U 1 1 5F497457
 P 9150 1550
 F 0 "MX14" H 9150 1785 50  0000 C CNN
 F 1 "1u" H 9150 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 9150 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 9150 1550 50  0001 C CNN
 F 3 "~" H 9150 1550 50  0001 C CNN
 	1    9150 1550
 	-1   0    0    -1  
@@ -1633,7 +1632,7 @@ U 1 1 5F497469
 P 8600 1550
 F 0 "MX13" H 8600 1785 50  0000 C CNN
 F 1 "1u" H 8600 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8600 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 8600 1550 50  0001 C CNN
 F 3 "~" H 8600 1550 50  0001 C CNN
 	1    8600 1550
 	-1   0    0    -1  
@@ -1664,7 +1663,7 @@ U 1 1 5F49747B
 P 8050 1550
 F 0 "MX12" H 8050 1785 50  0000 C CNN
 F 1 "1u" H 8050 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 8050 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 8050 1550 50  0001 C CNN
 F 3 "~" H 8050 1550 50  0001 C CNN
 	1    8050 1550
 	-1   0    0    -1  
@@ -1695,7 +1694,7 @@ U 1 1 5F49748D
 P 7500 1550
 F 0 "MX11" H 7500 1785 50  0000 C CNN
 F 1 "1u" H 7500 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7500 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 7500 1550 50  0001 C CNN
 F 3 "~" H 7500 1550 50  0001 C CNN
 	1    7500 1550
 	-1   0    0    -1  
@@ -1726,7 +1725,7 @@ U 1 1 5F49749F
 P 6950 1550
 F 0 "MX10" H 6950 1785 50  0000 C CNN
 F 1 "1u" H 6950 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6950 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6950 1550 50  0001 C CNN
 F 3 "~" H 6950 1550 50  0001 C CNN
 	1    6950 1550
 	-1   0    0    -1  
@@ -1757,7 +1756,7 @@ U 1 1 5F4974B1
 P 6400 1550
 F 0 "MX9" H 6400 1785 50  0000 C CNN
 F 1 "1u" H 6400 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6400 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 6400 1550 50  0001 C CNN
 F 3 "~" H 6400 1550 50  0001 C CNN
 	1    6400 1550
 	-1   0    0    -1  
@@ -1788,7 +1787,7 @@ U 1 1 5F4974C3
 P 5850 1550
 F 0 "MX8" H 5850 1785 50  0000 C CNN
 F 1 "1u" H 5850 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5850 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5850 1550 50  0001 C CNN
 F 3 "~" H 5850 1550 50  0001 C CNN
 	1    5850 1550
 	-1   0    0    -1  
@@ -1819,7 +1818,7 @@ U 1 1 5F4974D5
 P 5300 1550
 F 0 "MX7" H 5300 1785 50  0000 C CNN
 F 1 "1u" H 5300 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 5300 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 5300 1550 50  0001 C CNN
 F 3 "~" H 5300 1550 50  0001 C CNN
 	1    5300 1550
 	-1   0    0    -1  
@@ -1850,7 +1849,7 @@ U 1 1 5F4974E7
 P 4750 1550
 F 0 "MX6" H 4750 1785 50  0000 C CNN
 F 1 "1u" H 4750 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 4750 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 4750 1550 50  0001 C CNN
 F 3 "~" H 4750 1550 50  0001 C CNN
 	1    4750 1550
 	-1   0    0    -1  
@@ -1896,7 +1895,7 @@ U 1 1 5F497502
 P 3650 1550
 F 0 "MX4" H 3650 1785 50  0000 C CNN
 F 1 "1u" H 3650 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3650 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3650 1550 50  0001 C CNN
 F 3 "~" H 3650 1550 50  0001 C CNN
 	1    3650 1550
 	-1   0    0    -1  
@@ -1927,7 +1926,7 @@ U 1 1 5F497514
 P 3100 1550
 F 0 "MX3" H 3100 1785 50  0000 C CNN
 F 1 "1u" H 3100 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 3100 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 3100 1550 50  0001 C CNN
 F 3 "~" H 3100 1550 50  0001 C CNN
 	1    3100 1550
 	-1   0    0    -1  
@@ -1958,7 +1957,7 @@ U 1 1 5F497526
 P 2550 1550
 F 0 "MX2" H 2550 1785 50  0000 C CNN
 F 1 "1u" H 2550 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 2550 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 2550 1550 50  0001 C CNN
 F 3 "~" H 2550 1550 50  0001 C CNN
 	1    2550 1550
 	-1   0    0    -1  
@@ -1991,7 +1990,7 @@ U 1 1 5F497539
 P 2000 1550
 F 0 "MX1" H 2000 1785 50  0000 C CNN
 F 1 "1u" H 2000 1694 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 2000 1550 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 2000 1550 50  0001 C CNN
 F 3 "~" H 2000 1550 50  0001 C CNN
 	1    2000 1550
 	-1   0    0    -1  
@@ -2007,7 +2006,7 @@ U 1 1 5FB4808E
 P 5300 5050
 F 0 "MX74" H 5300 5285 50  0000 C CNN
 F 1 "6.25u" H 5300 5194 50  0000 C CNN
-F 2 "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED" H 5300 5050 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_6.25u" H 5300 5050 50  0001 C CNN
 F 3 "~" H 5300 5050 50  0001 C CNN
 	1    5300 5050
 	-1   0    0    -1  
@@ -2028,7 +2027,7 @@ U 1 1 5FB57EAA
 P 2000 5050
 F 0 "MX71" H 2000 5285 50  0000 C CNN
 F 1 "1.25u" H 2000 5194 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U-NoLED" H 2000 5050 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u" H 2000 5050 50  0001 C CNN
 F 3 "~" H 2000 5050 50  0001 C CNN
 	1    2000 5050
 	-1   0    0    -1  
@@ -2039,7 +2038,7 @@ U 1 1 5FB58D92
 P 3100 5050
 F 0 "MX73" H 3100 5285 50  0000 C CNN
 F 1 "1.25u" H 3100 5194 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U-NoLED" H 3100 5050 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u" H 3100 5050 50  0001 C CNN
 F 3 "~" H 3100 5050 50  0001 C CNN
 	1    3100 5050
 	-1   0    0    -1  
@@ -2050,7 +2049,7 @@ U 1 1 5FB591B2
 P 2550 5050
 F 0 "MX72" H 2550 5285 50  0000 C CNN
 F 1 "1.25u" H 2550 5194 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U-NoLED" H 2550 5050 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u" H 2550 5050 50  0001 C CNN
 F 3 "~" H 2550 5050 50  0001 C CNN
 	1    2550 5050
 	-1   0    0    -1  
@@ -2091,7 +2090,7 @@ U 1 1 5F49716A
 P 2000 4350
 F 0 "MX62" H 2000 4585 50  0000 C CNN
 F 1 "1.5u" H 2000 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U-NoLED" H 2000 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u" H 2000 4350 50  0001 C CNN
 F 3 "~" H 2000 4350 50  0001 C CNN
 	1    2000 4350
 	-1   0    0    -1  
@@ -2102,7 +2101,7 @@ U 1 1 5F49715A
 P 2550 4350
 F 0 "MX63" H 2550 4585 50  0000 C CNN
 F 1 "1u" H 2550 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 2550 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u" H 2550 4350 50  0001 C CNN
 F 3 "~" H 2550 4350 50  0001 C CNN
 	1    2550 4350
 	-1   0    0    -1  
@@ -2113,7 +2112,7 @@ U 1 1 5F49714B
 P 3100 4350
 F 0 "MX64" H 3100 4585 50  0000 C CNN
 F 1 "1.5u" H 3100 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U-NoLED" H 3100 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u" H 3100 4350 50  0001 C CNN
 F 3 "~" H 3100 4350 50  0001 C CNN
 	1    3100 4350
 	-1   0    0    -1  
@@ -2124,7 +2123,7 @@ U 1 1 5F49713C
 P 5300 4350
 F 0 "MX65" H 5300 4585 50  0000 C CNN
 F 1 "7u" H 5300 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED" H 5300 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_7.00u" H 5300 4350 50  0001 C CNN
 F 3 "~" H 5300 4350 50  0001 C CNN
 	1    5300 4350
 	-1   0    0    -1  
@@ -2135,7 +2134,7 @@ U 1 1 5F4970B7
 P 8050 5100
 F 0 "MX75" H 8050 5335 50  0000 C CNN
 F 1 "1.25u" H 8050 5244 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U-NoLED" H 8050 5100 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u" H 8050 5100 50  0001 C CNN
 F 3 "~" H 8050 5100 50  0001 C CNN
 	1    8050 5100
 	-1   0    0    -1  
@@ -2146,7 +2145,7 @@ U 1 1 5F49710C
 P 8050 4350
 F 0 "MX67" H 8050 4585 50  0000 C CNN
 F 1 "1.5u" H 8050 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.5U-NoLED" H 8050 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u" H 8050 4350 50  0001 C CNN
 F 3 "~" H 8050 4350 50  0001 C CNN
 	1    8050 4350
 	-1   0    0    -1  
@@ -2157,7 +2156,7 @@ U 1 1 5F49712D
 P 6950 4350
 F 0 "MX66" H 6950 4585 50  0000 C CNN
 F 1 "1.25u" H 6950 4494 50  0000 C CNN
-F 2 "MX_Only:MXOnly-1.25U-NoLED" H 6950 4350 50  0001 C CNN
+F 2 "Official_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u" H 6950 4350 50  0001 C CNN
 F 3 "~" H 6950 4350 50  0001 C CNN
 	1    6950 4350
 	-1   0    0    -1  
